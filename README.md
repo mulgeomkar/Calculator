@@ -14,7 +14,6 @@ This is a simple calculator application built using Java Swing. It provides basi
 - Negate button to change the sign of the number
 
 ## How to Use
-![Alt text](C:\Users\mulge\OneDrive\Pictures\Screenshots\Screenshot (20).png)
 1. Launching the Calculator:
    - Run the `Calculator.java` file to start the application.
    - A window titled "Calculator" will appear.
