@@ -41,7 +41,3 @@ This is a simple calculator application built using Java Swing. It provides basi
 - The application is built using Java Swing, a GUI toolkit for Java.
 - Each button performs a specific action when clicked, such as appending digits, performing calculations, or clearing the text field.
 - The calculator supports basic arithmetic operations and handles input validation for numeric values.
-
-## Contributors
-
-- mulge omkar
