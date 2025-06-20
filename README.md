@@ -12,6 +12,8 @@ This is a simple calculator application built using Java Swing. It provides basi
 - Clear button to reset the calculator
 - Delete button to remove the last entered digit
 - Negate button to change the sign of the number
+  
+![Preview](Calculator.png)
 
 ## How to Use
 1. Launching the Calculator:
